@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./style.css" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Color converter</title>
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/@jaames/iro@5"></script>
+    <div class="converter-wrapper">
+      <h1>Конвертер цветов</h1>
+      <form>
+        <select name="main-color" class="main-color-select">
+          <option value="rgb">RGB</option>
+          <option value="hex">HEX</option>
+          <option value="cmyk">CMYK</option>
+          <option value="xyz">XYZ</option>
+          <option value="lab">LAB</option>
+          <option value="hsv">HSV</option>
+          <option value="hsl">HSL</option>
+        </select>
+      </form>
+
+      <div class="main-color-wrapper">
+        <div class="main-color-block"></div>
+        <form>
+          <input value="0" type="text" class="main-input-1" id="main-input-1" />
+          <label for="main-input-1" class="label-1">R</label>
+          <input value="0" type="text" class="main-input-2" id="main-input-2" />
+          <label for="main-input-2" class="label-2">G</label>
+          <input value="0" type="text" class="main-input-3" id="main-input-3" />
+          <label for="main-input-3" class="label-3">B</label>
+          <input type="text" class="main-input-4" id="main-input-4" />
+          <label for="main-input-4" class="label-4"></label>
+          <div class="pick">Подобрать</div>
+        </form>
+      </div>
+
+      <div class="result">
+        <h2>Результат</h2>
+        <div class="select-wrapper">
+          <select name="color-2" class="color-2">
+            <option value="rgb">RGB</option>
+            <option value="hex">HEX</option>
+            <option value="cmyk">CMYK</option>
+            <option value="xyz">XYZ</option>
+            <option value="lab">LAB</option>
+            <option value="hsv">HSV</option>
+            <option value="hsl">HSL</option>
+          </select>
+          <select name="color-3" class="color-3">
+            <option value="rgb">RGB</option>
+            <option value="hex">HEX</option>
+            <option value="cmyk">CMYK</option>
+            <option value="xyz">XYZ</option>
+            <option value="lab">LAB</option>
+            <option value="hsv">HSV</option>
+            <option value="hsl">HSL</option>
+          </select>
+        </div>
+        <div class="result-text">
+          <div class="color-text-2-wrapper">
+            <input value="rgb(0, 0, 0)" type="text" class="color-text-2" />
+            <div class="copy copy-2"></div>
+          </div>
+          <div class="color-text-3-wrapper">
+            <input value="rgb(0, 0, 0)" type="text" class="color-text-3" />
+            <div class="copy copy-3"></div>
+          </div>
+        </div>
+        <div class="result-color">
+          <div class="color-2-block"></div>
+          <div class="border-between-colors-blocks"></div>
+          <div class="color-3-block"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+  <script src="./script.js"></script>
+</html>
