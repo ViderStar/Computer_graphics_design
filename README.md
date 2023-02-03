@@ -1,5 +1,5 @@
 # <b>Computer Graphics Design</b>
-FAMCS BSU 2022 (3th semester, Applied Informatics)
+> FAMCS BSU 2022 (3th semester, Applied Informatics)
 
 ### <b>During the discipline, the following topics were studied:</b>
 - COLOR IN COMPUTER GRAPHICS AND COLOR MODELS
@@ -19,7 +19,7 @@ FAMCS BSU 2022 (3th semester, Applied Informatics)
 - Lab. work #6 - Construction and visualization of three-dimensional objects
 
 # <b>Проектирование компьютерной графики</b>
-ФПМИ БГУ 2022 (3 семестр, Прикладная Информатика)
+> ФПМИ БГУ 2022 (3 семестр, Прикладная Информатика)
 
 ### <b>За время проведения дисциплины были изучены следующии темы:</b>
 - ЦВЕТ В КОМПЬЮТЕРНОЙ ГРАФИКЕ И ЦВЕТОВЫЕ МОДЕЛИ
