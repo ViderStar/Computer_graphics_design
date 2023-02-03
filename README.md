@@ -1,4 +1,4 @@
-# <b>Computer Graphics Design</b>
+# <b>EN: Computer Graphics Design</b>
 > FAMCS BSU 2022 (3th semester, Applied Informatics)
 
 ### <b>During the discipline, the following topics were studied:</b>
@@ -19,7 +19,9 @@
 - Lab. work #5 - Algorithms for cutting segments and polygons
 - Lab. work #6 - Construction and visualization of three-dimensional objects
 
-# <b>Проектирование компьютерной графики</b>
+
+
+# **RU: Проектирование компьютерной графики**</b>**
 > ФПМИ БГУ 2022 (3 семестр, Прикладная Информатика)
 
 ### <b>За время проведения дисциплины были изучены следующии темы:</b>
