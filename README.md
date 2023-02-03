@@ -2,13 +2,14 @@
 > FAMCS BSU 2022 (3th semester, Applied Informatics)
 
 ### <b>During the discipline, the following topics were studied:</b>
-- COLOR IN COMPUTER GRAPHICS AND COLOR MODELS
-- RASTER AND VECTOR FORMATS
-- ALGORITHMS FOR COMPRESSING GRAPHIC FILES
-- BASICS OF DIGITAL IMAGE PROCESSING
-- BASIC RASTER ALGORITHMS
-- ALGORITHMS FOR CUTTING LINES AND POLYGONS
-- COORDINATE CONVERSION. PROJECTIONS
+- color in computer graphics and color models 
+- raster and vector formats 
+- algorithms for compressing graphic files 
+- basics of digital image processing 
+- basic raster algorithms 
+- algorithms for cutting lines and polygons 
+- coordinate conversion, projections
+
 
 ### <b>Based on these topics, 6 laboratory works were performed:</b>
 - Lab. work #1 - Color Converter
@@ -22,13 +23,13 @@
 > ФПМИ БГУ 2022 (3 семестр, Прикладная Информатика)
 
 ### <b>За время проведения дисциплины были изучены следующии темы:</b>
-- ЦВЕТ В КОМПЬЮТЕРНОЙ ГРАФИКЕ И ЦВЕТОВЫЕ МОДЕЛИ
-- РАСТРОВЫЕ И ВЕКТОРНЫЕ ФОРМАТЫ
-- АЛГОРИТМЫ СЖАТИЯ ГРАФИЧЕСКИХ ФАЙЛОВ
-- ОСНОВЫ ОБРАБОТКИ ЦИФРОВЫХ ИЗОБРАЖЕНИЙ
-- БАЗОВЫЕ РАСТРОВЫЕ АЛГОРИТМЫ
-- АЛГОРИТМЫ ОТСЕЧЕНИЯ ОТРЕЗКОВ И МНОГОУГОЛЬНИКОВ
-- ПРЕОБРАЗОВАНИЯ КООРДИНАТ. ПРОЕКЦИИ
+- цвет в компьютерной графике и цветовые модели 
+- растровые и векторные форматы 
+- алгоритмы сжатия графических файлов 
+- основы обработки цифровых изображений 
+- базовые растровые алгоритмы 
+- алгоритмы отсечения отрезков и многоугольников 
+- преобразования координат, проекции
 
 ### <b>По данным темам было выполнено 6 лабораторных работ:</b>
 - Лаб. работа #1 — Конвертер цветов
