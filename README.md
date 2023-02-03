@@ -1,6 +1,7 @@
-# "Computer Graphics Design" FAMCS BSU 2022 (3th semester, Applied Informatics)
+# <b>Computer Graphics Design</b>
+## FAMCS BSU 2022 (3th semester, Applied Informatics)
 
-### During the discipline, the following topics were studied:
+### <b>During the discipline, the following topics were studied:</b>
 - COLOR IN COMPUTER GRAPHICS AND COLOR MODELS
 - RASTER AND VECTOR FORMATS
 - ALGORITHMS FOR COMPRESSING GRAPHIC FILES
@@ -9,7 +10,7 @@
 - ALGORITHMS FOR CUTTING LINES AND POLYGONS
 - COORDINATE CONVERSION. PROJECTIONS
 
-### Based on these topics, 6 laboratory works were performed:
+### <b>Based on these topics, 6 laboratory works were performed:</b>
 - Lab. work #1 - Color Converter
 - Lab. work #2 - Reading information from graphic files
 - Lab. work #3 - Fundamentals of digital image processing
@@ -17,9 +18,10 @@
 - Lab. work #5 - Algorithms for cutting segments and polygons
 - Lab. work #6 - Construction and visualization of three-dimensional objects
 
-# "Проектирование компьютерной графики" ФПМИ БГУ 2022 (3 семестр, Прикладная Информатика)
+# <b>Проектирование компьютерной графики</b>
+## ФПМИ БГУ 2022 (3 семестр, Прикладная Информатика)
 
-### За время проведения дисциплины были изучены следующии темы:
+### <b>За время проведения дисциплины были изучены следующии темы:</b>
 - ЦВЕТ В КОМПЬЮТЕРНОЙ ГРАФИКЕ И ЦВЕТОВЫЕ МОДЕЛИ
 - РАСТРОВЫЕ И ВЕКТОРНЫЕ ФОРМАТЫ
 - АЛГОРИТМЫ СЖАТИЯ ГРАФИЧЕСКИХ ФАЙЛОВ
@@ -28,7 +30,7 @@
 - АЛГОРИТМЫ ОТСЕЧЕНИЯ ОТРЕЗКОВ И МНОГОУГОЛЬНИКОВ
 - ПРЕОБРАЗОВАНИЯ КООРДИНАТ. ПРОЕКЦИИ
 
-### По данным темам было выполнено 6 лабораторных работ:
+### <b>По данным темам было выполнено 6 лабораторных работ:</b>
 - Лаб. работа #1 — Конвертер цветов
 - Лаб. работа #2 — Чтение информации из графических файлов
 - Лаб. работа #3 — Основы обработки цифровых изображений
